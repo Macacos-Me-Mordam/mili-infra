@@ -1,0 +1,3 @@
+[submodule "mili-backend"]
+	path = mili-backend
+	url = git@github.com:Macacos-Me-Mordam/mili-backend.git
