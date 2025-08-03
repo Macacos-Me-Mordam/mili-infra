@@ -74,7 +74,8 @@
         "realm-management": [
           "view-users",
           "manage-users",
-          "query-users"
+          "query-users",
+          "manage-realm"
         ]
       }
     }
