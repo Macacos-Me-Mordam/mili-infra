@@ -5,3 +5,6 @@
 	path = mili-frontend
 	url = git@github.com:Macacos-Me-Mordam/mili-frontend.git
 	branch = main
+[submodule "app-mili"]
+	path = app-mili
+	url = git@github.com:Macacos-Me-Mordam/app-mili.git
