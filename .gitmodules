@@ -8,3 +8,6 @@
 [submodule "app-mili"]
 	path = app-mili
 	url = git@github.com:Macacos-Me-Mordam/app-mili.git
+[submodule "detection-api"]
+	path = detection-api
+	url = git@github.com:Macacos-Me-Mordam/detection-api.git
